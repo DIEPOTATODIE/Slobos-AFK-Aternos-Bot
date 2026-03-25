@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "You will die:)",
+        
+      
       ]
     },
     "chat-log": false,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 0,
+    "max-reconnect-delay": 0
   },
   "movement": {
     "enabled": true,
