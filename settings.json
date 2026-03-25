@@ -23,11 +23,11 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -38,14 +38,14 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 999999999999999999999999999999999999,
-    "max-reconnect-delay": 999999999999999999999999999999999999
+    "auto-reconnect-delay": .1,
+    "max-reconnect-delay": 
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 4,l
       "speed": 3000
     },
     "look-around": {
