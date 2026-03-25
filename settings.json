@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Herobrine",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Kannur-bA9Z.aternos.me",
@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": .1,
-    "max-reconnect-delay": 
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 12000
   },
   "movement": {
     "enabled": true,
