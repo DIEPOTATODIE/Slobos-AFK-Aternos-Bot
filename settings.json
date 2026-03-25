@@ -37,9 +37,9 @@
       ]
     },
     "chat-log": false,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 0,
-    "max-reconnect-delay": 0
+    "auto-reconnect": false,
+    "auto-reconnect-delay": ,
+    "max-reconnect-delay": 
   },
   "movement": {
     "enabled": true,
